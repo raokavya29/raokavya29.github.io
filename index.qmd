@@ -1,0 +1,24 @@
+---
+title: "Kavya Rao"
+about:
+  image: MISC/profile-pic.jpg
+  id: hero-heading
+  template: broadside
+  image-shape: round
+  links:
+    - icon: mailbox
+      text: kavyarao
+      href: mailto:kaves29@gmail.com
+    - icon: linkedin
+      text: kavyarao
+      href: https://www.linkedin.com/in/kavya-rao-756a8b222/
+---
+
+## About Me
+
+Welcome to my website. This site serves as a repository of my professional research, personal reflections, and my résumé.
+
+Formally, I hold degrees in Economics from the University of Hyderabad and Christ University. I currently work at NITI Aayog in the Economics and Finance Division.
+
+Looking forward to collaborate across economic research, public policy, and applied analytics.
+

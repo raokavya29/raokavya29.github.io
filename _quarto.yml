@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  site-url: https://raokavya29.github.io
+  title: "Kavya Rao"
+  google-analytics:
+    tracking-id: "G-82KP8BS354"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - text: "CV"
+        href: MISC/kavya-cv-dec25.pdf
+      - href: projects.qmd     
+        text: Projects
+      - href: blog.qmd
+        text: Blog
+              
+format:
+  html:
+    theme: broadside
+    css: styles.css
+    toc: true
+    page-layout: full
+    code-fold: true
+
